@@ -26,6 +26,6 @@ In this analysis, I answer questions such as:
 •	What factors influence the price of the listing?
 •	which Munich neighborhoods are the most popular?
 
-Check out the final presentation on Tableau 
+Check out the final presentation on Tableau https://public.tableau.com/app/profile/ray.rusli.junior/viz/AirbnbMunich_16491670032880/Story1
 
 
